@@ -24,6 +24,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-333333?style=flat&logo=express)
 ![Fastify](https://img.shields.io/badge/fastify-333333?style=flat&logo=fastify)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+
+🛠 Outras Ferramentas
+
+![Git](https://img.shields.io/badge/git-333333?style=flat&logo=git)
+![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=Prisma)
 
 <h2>🚀 &nbsp;Status do meu perfil</h2>
 
