@@ -18,18 +18,26 @@
 ![TypeScript](https://img.shields.io/badge/typescript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/react-333333?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/styled--components-333333?style=flat&logo=styled-components)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333?style=flat&logo=tailwind-css)
 
 ⚙ Back-end
 
 ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js)
+![TypeScript](https://img.shields.io/badge/typescript-333333?style=flat&logo=typescript)
 ![Express.js](https://img.shields.io/badge/express.js-333333?style=flat&logo=express)
 ![Fastify](https://img.shields.io/badge/fastify-333333?style=flat&logo=fastify)
+![Postgres](https://img.shields.io/badge/postgres-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 
-🛠 Outras Ferramentas
+🧰 Ferramentas e Bibliotecas UI
 
 ![Git](https://img.shields.io/badge/git-333333?style=flat&logo=git)
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=Prisma)
+![Jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest&logoColor=red)
+![Vitest](https://img.shields.io/badge/vitest-333333?style=flat&logo=vitest)
+![Radix UI](https://img.shields.io/badge/radix%20ui-333333?style=flat&logo=radix-ui)
+![shadcn ui](https://img.shields.io/badge/shadcn%20ui-333333?style=flat&logo=shadcnui)
+
 
 <h2>🚀 &nbsp;Status do meu perfil</h2>
 
